@@ -1,0 +1,6 @@
+/api/users?page=2
+/api/users/2
+/api/users/1
+/api/unknown
+/api/unknown/2
+/api/users?delay=3
